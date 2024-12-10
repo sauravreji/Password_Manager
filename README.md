@@ -30,4 +30,10 @@ To ensure secure encryption, a secret key file key.key is required. You can gene
 > **Note:** Make sure to generate the `key.key` file before running the application.
 
 
+### Recording
+
+https://github.com/user-attachments/assets/1be22a9c-3c12-49c6-9b8c-d2b99ea9ff05
+
+
+
 
